@@ -17,7 +17,7 @@ This script is an intraday version of the VWAP and calculates the VWAP based on 
 - [Standard Deviation Bands](#standard-deviation-bands)
 - [Customization](#customization)
 - [Example Use Case](#example-use-case)
-- [License](#license)
+
 
 ## Formula
 
@@ -115,10 +115,6 @@ This VWAP indicator is particularly useful for **intraday traders**:
 - **Trend Continuation**: If price consistently holds above or below the 1st or 2nd standard deviation, this could indicate a strong trend, offering trade entry or exit signals.
 - **Volume Analysis**: VWAP is a key tool for analyzing how price moves relative to volume. If the price moves above or below VWAP with significant volume, it could signal a potential shift in market sentiment.
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
 
 This guide should help you configure and use the VWAP with standard deviation bands in **ProRealTime**. Modify the parameters and settings as necessary to match your specific trading strategy.
